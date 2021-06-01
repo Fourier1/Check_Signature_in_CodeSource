@@ -26,4 +26,4 @@ requests-oauthlib==0.4.2
 six==1.11.0
 SpeechRecognition==3.8.1
 SQLAlchemy==1.1.15
-urllib3==1.22
+urllib3==1.26.5
